@@ -10,6 +10,7 @@ export function Logo() {
 	return (
 		<div className="flex justify-center p-5">
 			<h1 className="font-bold text-5xl">Plantsy 🌱</h1>
+			<h1 className="font-bold text-5xl">🎗️</h1>
 		</div>
 	);
 }
